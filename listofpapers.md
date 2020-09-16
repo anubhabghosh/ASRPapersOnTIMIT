@@ -1,7 +1,7 @@
 # ASR Papers on TIMIT
 
 Mostly adopted from this excellent repo: https://github.com/syhw/wer_are_we, but 
-a bit more descriptive for my own research (*NOTE: PER refers to Phone Error Rate*)
+a bit more descriptive for my own research (*NOTE: PER refers to Phone Error Rate*). This file is viewed best on a VSCode preview of the Markdown file.
 
 ## List of Results
 S.No. | PER     | Paper name                    | Published date | Publisher | Features Used                    | Training set | Testing set | Validation set | Notes                            |
