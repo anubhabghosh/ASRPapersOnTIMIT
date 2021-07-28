@@ -8,4 +8,4 @@ a bit more descriptive for my own research (*NOTE: PER refers to Phone Error Rat
 
 ## Notes
 
-More details to be added soon
+More details to be added soon regarding this
